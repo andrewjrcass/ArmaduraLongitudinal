@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GreenPrimary">#98CB00</color>
+    <color name="GreenPrimaryDark">#056B16</color>
+    <color name="GreenTextColor">#000000</color>
+    <color name="GreenWindBack">#E7ECCC</color>
+    <color name="GreenSecondary">#092E02</color>
+
+    <style name="Base.Theme.AllGreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/GreenPrimary</item>
+        <item name="colorPrimaryDark">@color/GreenPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/GreenTextColor</item>
+        <item name="android:windowBackground">@color/GreenWindBack</item>
+        <item name="android:navigationBarColor">@color/GreenPrimaryDark</item>
+        <item name="colorSecondary">@color/GreenSecondary</item>
+    </style>
+
+    <color name="BluePrimary">#98AFEA</color>
+    <color name="BluePrimaryDark">#073650</color>
+    <color name="BlueTextColor">#000000</color>
+    <color name="BlueWindBack">#CCD5EC</color>
+    <color name="BlueSecondary">#020C2E</color>
+
+
+    <style name="Base.Theme.AllBlue" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#4E79E6</item>
+        <item name="colorPrimaryDark">@color/BluePrimaryDark</item>
+        <item name="android:textColorPrimary">@color/BlueTextColor</item>
+        <item name="android:windowBackground">@color/BlueWindBack</item>
+        <item name="android:navigationBarColor">@color/BluePrimaryDark</item>
+        <item name="colorSecondary">@color/BlueSecondary</item>
+    </style>
+
+    <color name="RedPrimary">#CC0007</color>
+    <color name="RedPrimaryDark">#6B0511</color>
+    <color name="RedTextColor">#000000</color>
+    <color name="RedWindBack">#ECCCD0</color>
+    <color name="RedSecondary">#2E0207</color>
+
+    <style name="Base.Theme.AllRed" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/RedPrimary</item>
+        <item name="colorPrimaryDark">@color/RedPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/RedTextColor</item>
+        <item name="android:windowBackground">@color/RedWindBack</item>
+        <item name="android:navigationBarColor">@color/RedPrimaryDark</item>
+        <item name="colorSecondary">@color/RedSecondary</item>
+    </style>
+
+    <color name="SiennaPrimary">#CC9900</color>
+    <color name="SiennaPrimaryDark">#6B4605</color>
+    <color name="SiennaTextColor">#000000</color>
+    <color name="SiennaWindBack">#ECE0CC</color>
+    <color name="SiennaSecondary">#2E1A02</color>
+
+    <style name="Base.Theme.AllSienna" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/SiennaPrimary</item>
+        <item name="colorPrimaryDark">@color/SiennaPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/SiennaTextColor</item>
+        <item name="android:windowBackground">@color/SiennaWindBack</item>
+        <item name="android:navigationBarColor">@color/SiennaPrimaryDark</item>
+        <item name="colorSecondary">@color/SiennaSecondary</item>
+    </style>
+    <color name="PurplePrimary">#CB00C1</color>
+    <color name="PurplePrimaryDark">#6B0566</color>
+    <color name="PurpleTextColor">#000000</color>
+    <color name="PurpleWindBack">#ECCCE8</color>
+    <color name="PurpleSecondary">#2E022A</color>
+
+    <style name="Base.Theme.AllPurple" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/PurplePrimary</item>
+        <item name="colorPrimaryDark">@color/PurplePrimaryDark</item>
+        <item name="android:textColorPrimary">@color/PurpleTextColor</item>
+        <item name="android:windowBackground">@color/PurpleWindBack</item>
+        <item name="android:navigationBarColor">@color/PurplePrimaryDark</item>
+        <item name="colorSecondary">@color/PurpleSecondary</item>
+    </style>
+</resources>

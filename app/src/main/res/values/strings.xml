@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cálculo de Armadura Longitudinal </string>
+    <string name="strExit">Sair</string>
+    <string name="strInitialData">\u0020Dados Iniciais:\n</string>
+    <string name="strResults">Resultados:</string>
+    <string name="strBack">Voltar</string>
+    <string name="strArmDupla">Cal. Arm. Dupla</string>
+    <string name="strConfig">Configurações:</string>
+    <string name="strSave">Salvar</string>
+    <string name="strAlert">Alerta</string>
+    <string name="strEmptyFields">Tem campos vazios!</string>
+    <string name="strArmDupAlert">aumentar seção ou usar armadura dupla!</string>
+    <string name="strArmSimples">Armadura simples</string>
+    <string name="strLine" translatable="false">"\n____________________________________"</string>
+    <string name="strFinish"  translatable="false">"\n________xxxxxxxxxxxxxx____________\n"</string>
+    <string-array name="acos_array">
+        <item>CA25</item>
+        <item>CA50</item>
+        <item>CA60</item>
+    </string-array>
+</resources>

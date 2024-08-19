@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Longitudinal Rebar Calculation</string>
+    <string name="strExit">Exit</string>
+    <string name="strInitialData">\u0020Initial data:\n</string>
+    <string name="strResults">Results:</string>
+    <string name="strBack">Back</string>
+    <string name="strArmDupla">Double Reinf. Calc.</string>
+    <string name="strConfig">Config:</string>
+    <string name="strSave">Save</string>
+    <string name="strAlert">Alert</string>
+    <string name="strEmptyFields">There are empty fields!</string>
+    <string name="strArmDupAlert">Use a higher section or use compression Rebar!</string>
+    <string name="strArmSimples">Simple line Rebar</string>
+</resources>
